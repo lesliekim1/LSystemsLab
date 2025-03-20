@@ -1,6 +1,6 @@
 # LTurtles
 
-A small experiment to explore L-Systems and Python's Turtles. 
+A mini experiment to explore L-Systems and Python's Turtles. 
 It serves as a simple demonstration of recursive growth patterns and automated drawing behavior.
 
 ## Features
