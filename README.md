@@ -1,6 +1,6 @@
 # LTurtles
 
-A mini experiment to explore L-Systems and Python's Turtles since L-Systems seems interesting.
+A mini experiment to explore L-Systems and Turtles since L-Systems seems interesting.
 
 ## Features
 - Implements L-Systems to generate fractal-like patterns.
